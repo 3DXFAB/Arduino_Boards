@@ -1,0 +1,54 @@
+{
+    "packages": [
+      {
+        "name": "3DXFAB",
+        "maintainer": "3DXFAB Research & Development",
+        "websiteURL": "https://www.3dxfab.com/",
+        "email": "info@3dxfab.com",
+        "help": {
+          "online": "https://github.com/3DXFAB/Arduino_Boards"
+        },
+        "platforms": [
+          {
+            "name": "3DXFAB Research AVR Boards",
+            "architecture": "avr",
+            "version": "1.0.0",
+            "category": "Contributed",
+            "url": "https://raw.githubusercontent.com/3DXFAB/Arduino_Boards/master/IDE_Board_Manager/3dxfabboards-1.0.0.tar.bz2",
+            "archiveFileName": "3dxfabboards-1.0.0.tar.bz2",
+            "checksum": "SHA-256:688131c399f94c531bcac7924213ccff371d244a7d7d19d6c7e6ee226163e4b1",
+            "size": "95977",
+            "help": {
+              "online": "https://github.com/3DXFAB/Arduino_Boards/blob/master/IDE_Board_Manager/3dxfabboards-1.0.0.md"
+            },
+            "boards": [
+              {
+                "name": "3DXFAB MK3/MK3S Einsy RAMBo"
+              }
+            ],
+            "toolsDependencies": []
+          },
+          {
+            "name": "3DXFAB Research AVR Boards",
+            "architecture": "avr",
+            "version": "1.0.1",
+            "category": "Contributed",
+            "url": "https://raw.githubusercontent.com/3DXFAB/Arduino_Boards/master/IDE_Board_Manager/3dxfabboards-1.0.1.tar.bz2",
+            "archiveFileName": "3dxfabboards-1.0.1.tar.bz2",
+            "checksum": "SHA-256:faa3c9dd9f9df80f61b8968f666605c7af661142c7d27b7a1004a5ad7488672b",
+            "size": "93371",
+            "help": {
+              "online": "https://github.com/3DXFAB/Arduino_Boards/blob/master/IDE_Board_Manager/3dxfabboards-1.0.1.md"
+            },
+            "boards": [
+              {
+                "name": "3DXFAB MK3/MK3S Einsy RAMBo"
+              }
+            ],
+            "toolsDependencies": []
+          }
+        ],
+        "tools":[]
+      }
+    ]
+  }
